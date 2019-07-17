@@ -1,0 +1,9 @@
+C:\Users\nur\source\repos\KitapSiparisi_HW\KitapSiparisi_HW\bin\Debug\KitapSiparisi_HW.exe.config
+C:\Users\nur\source\repos\KitapSiparisi_HW\KitapSiparisi_HW\bin\Debug\KitapSiparisi_HW.exe
+C:\Users\nur\source\repos\KitapSiparisi_HW\KitapSiparisi_HW\bin\Debug\KitapSiparisi_HW.pdb
+C:\Users\nur\source\repos\KitapSiparisi_HW\KitapSiparisi_HW\obj\Debug\KitapSiparisi_HW.Form1.resources
+C:\Users\nur\source\repos\KitapSiparisi_HW\KitapSiparisi_HW\obj\Debug\KitapSiparisi_HW.Properties.Resources.resources
+C:\Users\nur\source\repos\KitapSiparisi_HW\KitapSiparisi_HW\obj\Debug\KitapSiparisi_HW.csproj.GenerateResource.cache
+C:\Users\nur\source\repos\KitapSiparisi_HW\KitapSiparisi_HW\obj\Debug\KitapSiparisi_HW.csproj.CoreCompileInputs.cache
+C:\Users\nur\source\repos\KitapSiparisi_HW\KitapSiparisi_HW\obj\Debug\KitapSiparisi_HW.exe
+C:\Users\nur\source\repos\KitapSiparisi_HW\KitapSiparisi_HW\obj\Debug\KitapSiparisi_HW.pdb
